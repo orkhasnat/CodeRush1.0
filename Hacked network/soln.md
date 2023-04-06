@@ -1,0 +1,1 @@
+just use wireshark and follow the tcp stream of netcat.

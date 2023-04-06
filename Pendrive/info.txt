@@ -1,0 +1,7 @@
+Problem name: Pendrive
+Category: Forensic
+Points: 100
+Author Name: Tronics
+Flag: coderush{y0u_g0t_m3}
+Description: A suspicious USB drive was discovered at the scene of a cybercrime. Investigators managed to create an image of the USB drive before it self-destructed. Your task is to analyze the image and uncover any hidden information that might lead to the culprits. Retrieve the flag in the format coderush{}.
+Hint1: We love layers.

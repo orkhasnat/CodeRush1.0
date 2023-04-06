@@ -1,0 +1,3 @@
+xxd -r -p hexdata > filename.xlsx
+
+then open in ms excel or in google sheets.

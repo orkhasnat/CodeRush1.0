@@ -1,0 +1,8 @@
+Problem name: Numbers Have meaning
+Category: Forensic
+Points: 50/100
+Author Name: Tronics
+Flag: coderush{69_15_6_pr1m3}
+Description: Life would be so simple, if you know how  many steps to go, right?
+Hint1: Look at file size.
+Hint2: Need to be specific. May be ask Imteaz Sir, what number he uses most!

@@ -1,0 +1,9 @@
+Problem name: ExperimentalUse
+Category: OSINT
+Points: 25
+Author Name: Ork
+Flag: coderush{0101}
+Description: What is the binary representation of the first 4 bits of the packet defined by RFC 1819? 
+Hint1:
+
+// should have only 3 tries.

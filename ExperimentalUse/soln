@@ -1,0 +1,9 @@
+https://datatracker.ietf.org/doc/rfc1819/
+
+Both ST2 and IP apply the same addressing schemes to identify
+   different hosts. ST2 and IP packets differ in the first four bits,
+   which contain the internetwork protocol version number: number 5 is
+   reserved for ST2 (IP itself has version number 4).
+
+Flag:
+coderush{0101}

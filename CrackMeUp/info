@@ -1,0 +1,8 @@
+Problem name: CrackMeUp
+Category: Forensic
+Points: 100
+Author Name: Ork
+Flag: coderush{b3c4r3fu11_4b0u7_7h3_h45h_y0u_u53}
+Description:  Aashnan thought his secret wont be compromised. Being the clever guy he was he even kept his secret hidden using some tricks even if it gets leaked. Surely it cant be cracked, right? 
+Hint1: Crack the hash to get the password.
+Hint2: Simple steg challenge. 

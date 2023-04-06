@@ -1,0 +1,7 @@
+Problem name: FlyHigh
+Category: OSINT
+Points: 50/100
+Author Name: Ork
+Flag: coderush{Poland}
+Description: Can you identify the country over which this plane passed at precisely 0420 hours UTC on March 14th, 2023? 
+Hint1: The unique id is given in the image.

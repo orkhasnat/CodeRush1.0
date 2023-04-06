@@ -1,0 +1,9 @@
+Problem name: format_string ftw
+Category: pwn
+Points: 75
+Author Name: peace_ranger
+Flag: coderush{us3_pr1ntf_w1s31y_t0_av01d_fmt_5tr1ng_3xpl01t4ti0n}
+Description: No one should see what I have in stack! Its only mine!
+nc ip port
+
+Additional Instructions: Just need to host the binary. Not the source. User's won't be given any file.

@@ -1,0 +1,8 @@
+Solve through different compressions
+
+Compression process:
+base64 zip lzop zstd tar lzip xz tar lzma bzip2 gzip zip rar
+	
+	 
+Flag :
+coderush{w4y_d0wn_y0u_g0}
