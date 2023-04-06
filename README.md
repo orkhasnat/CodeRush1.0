@@ -1,12 +1,3 @@
-<head>
-  <style>
-    body {
-      font-family: "Operator Mono";
-    }
-  </style>
-</head>
-
-
 # **Coderush 1.0**
 *This repo contains the challenges for Intra IUT Coderush 1.0 CTF competition organized by IUT CTF club and IUTCS.*  
 
